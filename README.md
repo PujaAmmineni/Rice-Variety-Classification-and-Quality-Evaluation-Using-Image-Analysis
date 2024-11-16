@@ -1,6 +1,5 @@
 
-# Scalable Rice Grain Classification Using CNN and Apache Spark
-
+# Rice Variety Classification and Quality Evaluation Using Image Analysis
 ## Project Overview
 This project focuses on developing a scalable system for classifying rice grains into distinct varieties using Convolutional Neural Networks (CNNs) integrated with Apache Spark. The classification process leverages the Kaggle Rice Image Dataset, which contains 75,000 high-quality images across five rice varieties: Arborio, Basmati, Ipsala, Jasmine, and Karacadag. By utilizing Apache Spark’s distributed computing capabilities, this project addresses the challenges of processing and training on large datasets efficiently while delivering a robust and accurate classification model.
 
